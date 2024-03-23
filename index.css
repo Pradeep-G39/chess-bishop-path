@@ -22,6 +22,7 @@ div:nth-child(odd)>span:nth-child(odd),div:nth-child(even)>span:nth-child(even){
 
 span:hover{
     background-color: lightblue !important;
+    cursor: pointer;
 }
 
 .highlight{
